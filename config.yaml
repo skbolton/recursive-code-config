@@ -53,14 +53,14 @@ Fonts:
   Bold:
     MONO: 1
     CASL: 0
-    wght: 750
+    wght: 700
     slnt: 0
     CRSV: 0
 
   Bold Italic:
     MONO: 1
     CASL: 1
-    wght: 750
+    wght: 700
     slnt: -10
     CRSV: 1
 
