@@ -52,9 +52,9 @@ Fonts:
 
   Bold:
     MONO: 1
-    CASL: 0
+    CASL: 0.70
     wght: 700
-    slnt: 0
+    slnt: -4
     CRSV: 0
 
   Bold Italic:
